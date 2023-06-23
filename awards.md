@@ -9,8 +9,6 @@ title: Awards
 - May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
 - March 2023：Second Prize Scholarship of FZU ($1400)
 - Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
 - Sep 2021：Third Prize Scholarship of FZU ($700)
 - March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
 
@@ -20,10 +18,7 @@ title: Awards
 - May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
 - Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
 - Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
+
 
 ## Honors
 
