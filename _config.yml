@@ -39,8 +39,8 @@ links:
     url: /publications/
   - title: Projects
     url: /projects/
-  - title: Awards
-    url: /awards/
+#  - title: Awards
+#    url: /awards/
  # - title: Blogs
  #   url: /blogs/
 
@@ -79,6 +79,3 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
