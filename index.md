@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-Here is **Jun Wei Wu ([武军伟](https://j-w-wu.github.io/file/英文介绍.pdf))**.
+Here is **Jun Wei Wu ([武军伟])**.
 
-I am an associate professer with the state key laboratory of millimeter waves at Southeast University, Nanjing, China. Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am an associate professer with the state key laboratory of millimeter waves at Southeast University, Nanjing, China. Here is [my Resume](https://j-w-wu.github.io/file/英文介绍.pdf).
 
 ## Research Interests
 
