@@ -11,15 +11,8 @@ owner:
   avatar: jwwu.jpg
 #  bio:
   email: jwwu at seu.edu.cn
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
-  # facebook: caihanlin2002
-  #github: GuangLun2000
   #linkedin: hanlin-cai-07b53b23b
   scholar: https://scholar.google.com/citations?user=xO0o2GsAAAAJ&hl=en
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
@@ -74,7 +67,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: jwwu
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
