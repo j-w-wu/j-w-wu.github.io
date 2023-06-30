@@ -3,6 +3,8 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+<style>body {text-align: justify}</style>
+
 Lastest Update: 30th June 2023&nbsp;
 
 ### Part of Journal Papers
