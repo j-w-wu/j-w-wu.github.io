@@ -13,13 +13,4 @@ title: Blogs
 <img src="/images/2023Grad2.jpg">
 </div>
 
-
-<br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
 <br>
