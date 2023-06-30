@@ -3,15 +3,15 @@ layout: page
 ---
 
 ### About Me
-**Jun Wei Wu ([武军伟])** received the B.S. degree in electrical engineering from Shandong University, Jinan, China, in 2008, and the Ph.D. degree in radio physics from Wuhan University,
-Wuhan, China, in 2015. From 2012 to 2014, he was a Visiting Scholar at the Center for Computational Electromagnetics,
-University of Illinois at Urbana–Champaign, Champaign, IL, USA. He is currently an Associate Professor with Southeast University, Nanjing, China,
-where he is also with the State Key Laboratory of Millimeter Waves. He is a IEEE Member. 
+**Jun Wei Wu ([武军伟])** received the B.S. degree in electrical engineering from shandong university, Jinan, China, in 2008, and the Ph.D. degree in radio physics from wuhan university,
+Wuhan, China, in 2015. From 2012 to 2014, he worked as a visiting scholar at the center for computational electromagnetics,
+university of illinois at urbana–champaign(UIUC), USA. He is currently an associate professor with southeast university, Nanjing, China,
+where he is also with the state key laboratory of millimeter waves. He is a IEEE member. 
 
 
 ### Research Interests
 
-His research interests include numerical methods in electromagnetics, antennas and metamaterials, and electromagnetic information theory.
+His research interests include numerical methods in electromagnetics, antennas and metamaterials, and the electromagnetic information theory.
 
 ### News and Updates
 

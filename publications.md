@@ -45,6 +45,12 @@ Lastest Update: 30th June 2023&nbsp;
 
 1. [Two-Dimensional Direction Finding Based on Time-Modulated Array with Double Long Baselines and Spectrum Harmonic Analysis](https://ieeexplore.ieee.org/abstract/document/10065308). *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China). IEEE.* Wang, Wu Ji, **Jun Wei Wu**, Han Qing Yang, and Zheng Xing Wang.
 
-2. [Modeling broadband equivalent circuit of interconnects with full wave electromagnetic solver](https://ieeexplore.ieee.org/abstract/document/6703499/). *2013 IEEE 22nd Conference on Electrical Performance of Electronic Packaging and Systems*, pp. 203-206. IEEE, 2013. **Wu, Jun Wei**, José E. Schutt-Ainé, Zhi-Guo Qian, and Weng Cho Chew. 
+2. [Design of Reflectarray Antenna Based on Amplitude-Phase Metasurface and Convex Optimization](https://ieeexplore.ieee.org/abstract/document/10065261/). *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China)*, pp. 1-3. IEEE, 2022. Hua, Qiong, **Jun Wei Wu**, Qiang Cheng, and Jie Ming Lv. 
+
+4. [Electromagnetic Effective Degree of Freedom of MIMO System in Nonfree Space](https://ieeexplore.ieee.org/abstract/document/10064722/). *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China)*, pp. 1-3. IEEE, 2022. Zhang, Xiao Qi, Rui Wen Shao, Hui Xu, **Jun Wei Wu**, and Tie Jun Cui. 
+
+5. [Two-Dimensional Direction Finding Based on Time-Modulated Array with Double Long Baselines and Spectrum Harmonic Analysis](https://ieeexplore.ieee.org/abstract/document/10065308/). *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China)*, pp. 1-3. IEEE, 2022. Wang, Wu Ji, **Jun Wei Wu**, Han Qing Yang, and Zheng Xing Wang. 
 
 3. [Fast and accurate calculation of sea echo Doppler spectrum in high frequency band](https://ieeexplore.ieee.org/abstract/document/8051911/). *2017 International Applied Computational Electromagnetics Society Symposium (ACES)*, pp. 1-2. IEEE, 2017. Huan, He, and **Wu Jun-wei**. 
+
+2. [Modeling broadband equivalent circuit of interconnects with full wave electromagnetic solver](https://ieeexplore.ieee.org/abstract/document/6703499/). *2013 IEEE 22nd Conference on Electrical Performance of Electronic Packaging and Systems*, pp. 203-206. IEEE, 2013. **Wu, Jun Wei**, José E. Schutt-Ainé, Zhi-Guo Qian, and Weng Cho Chew. 
