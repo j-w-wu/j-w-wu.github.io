@@ -3,6 +3,9 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
+<style>body {text-align: justify}</style>
+
+Lastest Update: 30th June 2023&nbsp;
 
 - 2022，东南大学"紫金学者"
 
