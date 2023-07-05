@@ -10,7 +10,10 @@ title: Blogs
 
 <div class="one-second">
 <img src="/images/2023Grad1.jpg">
+
 <img src="/images/2023Grad2.jpg">
+
+<img src="/images/2023Grad3.jpg">
 </div>
 
 <br>
