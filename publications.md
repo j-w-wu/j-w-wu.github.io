@@ -7,6 +7,14 @@ title: Publications
 
 Lastest Update: 30th June 2023&nbsp;
 
+### Upcoming publications
+
+1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface] submitted to *National Science Review* (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+Qiang Cheng1,2,, and Tie Jun Cui1,2,3,4,*
+
+2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization] accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
+
+
 ### Part of Journal Papers
 
 1. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Wu, Jun Wei**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
