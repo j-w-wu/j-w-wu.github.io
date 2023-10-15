@@ -9,10 +9,10 @@ Lastest Update: 30th June 2023&nbsp;
 
 ### Upcoming publications
 
-1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface] submitted to *National Science Review* (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
-Qiang Cheng1,2,, and Tie Jun Cui1,2,3,4,*
+1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](). submitted to *National Science Review* (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+Qiang Cheng, and Tie Jun Cui
 
-2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization] accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
+2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](). accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
 
 
 ### Part of Journal Papers
