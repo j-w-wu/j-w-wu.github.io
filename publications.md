@@ -9,10 +9,10 @@ Lastest Update: 30th June 2023&nbsp;
 
 ### Upcoming publications
 
-1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](). submitted to *National Science Review* (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](). accepted by **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
 Qiang Cheng, and Tie Jun Cui
 
-2. [Complex matrix equation solver based on computational metasurface](). accepted by *Advanced Functional Materials* (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
+2. [Complex matrix equation solver based on computational metasurface](). accepted by **Advanced Functional Materials** (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
 
 
 3. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
@@ -22,15 +22,15 @@ Qiang Cheng, and Tie Jun Cui
 
 1. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Wu, Jun Wei**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
-2. [Optically Transparent Metasurface with High RF Transmittance and Wide‐Angle Stability for Dual Bands and Dual Polarizations](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300553). *Advanced Optical Materials*: 2300553. Jiang, Rui Zhe, **Jun Wei Wu**, Qian Ma, Jing Cheng Liang, Li Jie Wu, Qun Yan Zhou, Jun Yan Dai, Qiang Cheng, and Tie Jun Cui.
+2. [Optically Transparent Metasurface with High RF Transmittance and Wide‐Angle Stability for Dual Bands and Dual Polarizations](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300553). *Advanced Optical Materials*: 2300553. Jiang Rui Zhe, **Jun Wei Wu**, Qian Ma, Jing Cheng Liang, Li Jie Wu, Qun Yan Zhou, Jun Yan Dai, Qiang Cheng, and Tie Jun Cui.
 
-4. [Arbitrary Polarization Syntheses Based on Spin‐Momentum Locking in Spoof Surface Plasmon Polaritons](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202202618). *Advanced Optical Materials* 11, no. 8 (2023): 2202618. Liu, Jun Feng, **Jun Wei Wu**, Xiaojian Fu, Wenxuan Tang, and Tie Jun Cui. 
+4. [Arbitrary Polarization Syntheses Based on Spin‐Momentum Locking in Spoof Surface Plasmon Polaritons](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202202618). *Advanced Optical Materials* 11, no. 8 (2023): 2202618. Liu Jun Feng, **Jun Wei Wu**, Xiaojian Fu, Wenxuan Tang, and Tie Jun Cui. 
 
 4. [Design of a 2-Bit Reconfigurable UWB Planar Antenna Array for Beam Scanning Application](https://ieeexplore.ieee.org/abstract/document/10008041/). *IEEE Open Journal of Antennas and Propagation* (2023). Fang, Zuqi, Hanqing Yang, Yuan Gao, Feng Zhai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui. 
 
 6. [A Long‐Range and Nearly Passive RFID‐Controlled Information Metasurface](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202203114). *Advanced Optical Materials* (2023): 2203114. Wang, Zheng Xing, Chuan Kui Shen, **Jun Wei Wu**, Hui Xu, Qiang Cheng, Terry Tao Ye, and Tie Jun Cui. 
 
-3. [Low Cost and High Performance 5-Bit Programmable Phased Array Antenna at Ku-Band](https://www.jpier.org/PIER/pier.php?paper=22052806). *Progress In Electromagnetics Research* 175 (2022): 29-43. Li, Xin, Han Qing, Yang Rui, Wen Shao, Feng Zhai, Guo Biao, Liu Zheng et al.
+3. [Low Cost and High Performance 5-Bit Programmable Phased Array Antenna at Ku-Band](https://www.jpier.org/PIER/pier.php?paper=22052806). *Progress In Electromagnetics Research* 175 (2022): 29-43. Li Xin, Yang Han Qing, Shao Rui Wen, Zhai Feng, Liu Guo Biao, Liu Zheng et al.
 
 4. [Macromodeling of Reconfigurable Intelligent Surface Based on Microwave Network Theory](https://ieeexplore.ieee.org/abstract/document/9818951/). *IEEE Transactions on Antennas and Propagation* 70, no. 10 (2022): 8707-8717. Zhang, Zhen, Jun Wei Zhang, **Jun Wei Wu**, Jing Cheng Liang, Zheng Xing Wang, Qiang Cheng, Qingsha S. Cheng et al.
 
