@@ -5,7 +5,7 @@ title: Publications
 ---
 <style>body {text-align: justify}</style>
 
-Lastest Update: 30th June 2023&nbsp;
+Last Update: 23th Nov. 2023&nbsp;
 
 ### Upcoming publications
 
