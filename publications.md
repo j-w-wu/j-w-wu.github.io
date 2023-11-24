@@ -14,7 +14,7 @@ Qiang Cheng, and Tie Jun Cui
 
 2. [Complex matrix equation solver based on computational metasurface](). accepted by **Advanced Functional Materials** (2023). Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
-3. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). submitted to **Nature Communications**, under revision. Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+3. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). submitted to **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 4. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
 
