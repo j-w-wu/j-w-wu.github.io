@@ -9,7 +9,7 @@ Last Update: 23th Nov. 2023&nbsp;
 
 ### Upcoming publications
 
-1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](). accepted by **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). accepted by **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
 Qiang Cheng, and Tie Jun Cui
 
 2. [Complex matrix equation solver based on computational metasurface](). accepted by **Advanced Functional Materials** (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
