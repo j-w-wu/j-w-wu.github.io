@@ -24,9 +24,9 @@ Qiang Cheng, and Tie Jun Cui
 
 3. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Wu, Jun Wei**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
-4. [Optically Transparent Metasurface with High RF Transmittance and Wide‐Angle Stability for Dual Bands and Dual Polarizations](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300553). *Advanced Optical Materials*: 2300553. Jiang Rui Zhe, **Jun Wei Wu**, Qian Ma, Jing Cheng Liang, Li Jie Wu, Qun Yan Zhou, Jun Yan Dai, Qiang Cheng, and Tie Jun Cui.
+4. [Optically Transparent Metasurface with High RF Transmittance and Wide‐Angle Stability for Dual Bands and Dual Polarizations](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300553). *Advanced Optical Materials* (2023): 2300553. Jiang Rui Zhe, **Jun Wei Wu**, Qian Ma, Jing Cheng Liang, Li Jie Wu, Qun Yan Zhou, Jun Yan Dai, Qiang Cheng, and Tie Jun Cui.
 
-5. [Arbitrary Polarization Syntheses Based on Spin‐Momentum Locking in Spoof Surface Plasmon Polaritons](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202202618). *Advanced Optical Materials* 11, no. 8 (2023): 2202618. Liu Jun Feng, **Jun Wei Wu**, Xiaojian Fu, Wenxuan Tang, and Tie Jun Cui. 
+5. [Arbitrary Polarization Syntheses Based on Spin‐Momentum Locking in Spoof Surface Plasmon Polaritons](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202202618). *Advanced Optical Materials* (2023): 2202618. Liu Jun Feng, **Jun Wei Wu**, Xiaojian Fu, Wenxuan Tang, and Tie Jun Cui. 
 
 6. [Design of a 2-Bit Reconfigurable UWB Planar Antenna Array for Beam Scanning Application](https://ieeexplore.ieee.org/abstract/document/10008041/). *IEEE Open Journal of Antennas and Propagation* (2023). Fang, Zuqi, Hanqing Yang, Yuan Gao, Feng Zhai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui. 
 
