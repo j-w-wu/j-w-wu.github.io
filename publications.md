@@ -10,14 +10,14 @@ Last Update: 8th Dec. 2023&nbsp;
 ### Upcoming publications
 
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). submitted to **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
 
 
 ### Part of Journal Papers
 
-1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). accepted by **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
+1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
 Qiang Cheng, and Tie Jun Cui
 
 2. [Complex matrix equation solver based on computational metasurface](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202310234). **Advanced Functional Materials** (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
