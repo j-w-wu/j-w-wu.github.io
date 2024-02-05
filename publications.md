@@ -12,17 +12,17 @@ Last Update: 8th Dec. 2023&nbsp;
 
 1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
-2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). accepted by *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
-
 
 ### Part of Journal Papers
+
+2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
 
 1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
 Qiang Cheng, and Tie Jun Cui
 
 2. [Complex matrix equation solver based on computational metasurface](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202310234). **Advanced Functional Materials** (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
 
-3. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Wu, Jun Wei**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
+3. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Jun Wei Wu**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
 4. [Optically Transparent Metasurface with High RF Transmittance and Wide‐Angle Stability for Dual Bands and Dual Polarizations](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300553). *Advanced Optical Materials* (2023): 2300553. Jiang Rui Zhe, **Jun Wei Wu**, Qian Ma, Jing Cheng Liang, Li Jie Wu, Qun Yan Zhou, Jun Yan Dai, Qiang Cheng, and Tie Jun Cui.
 
@@ -42,19 +42,19 @@ Qiang Cheng, and Tie Jun Cui
 
 12. [High efficiency polarization‐encoded holograms with ultrathin bilayer spin‐decoupled information metasurfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202001609). *Advanced Optical Materials* 9, no. 5 (2021): 2001609. Wang, Zheng Xing, **Jun Wei Wu**, Liang Wei Wu, Yue Gou, Hui Feng Ma, Qiang Cheng, and Tie Jun Cui. 
 
-13. [Full‐State synthesis of electromagnetic fields using high efficiency phase‐only metasurfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202004144). *Advanced Functional Materials* 30, no. 39 (2020): 2004144. **Wu, Jun Wei**, Zheng Xing Wang, Zu Qi Fang, Jing Cheng Liang, Xiaojian Fu, Jun Feng Liu, Hao Tian Wu et al. 
+13. [Full‐State synthesis of electromagnetic fields using high efficiency phase‐only metasurfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202004144). *Advanced Functional Materials* 30, no. 39 (2020): 2004144. **Jun Wei Wu**, Zheng Xing Wang, Zu Qi Fang, Jing Cheng Liang, Xiaojian Fu, Jun Feng Liu, Hao Tian Wu et al. 
 
-14. [Anisotropic metasurface holography in 3-D space with high resolution and efficiency](https://ieeexplore.ieee.org/abstract/document/9142349/). *IEEE Transactions on Antennas and Propagation* 69, no. 1 (2020): 302-316. **Wu, Jun Wei**, Zheng Xing Wang, Lei Zhang, Qiang Cheng, Shuo Liu, Shuang Zhang, Ji Ming Song, and Tie Jun Cui. 
+14. [Anisotropic metasurface holography in 3-D space with high resolution and efficiency](https://ieeexplore.ieee.org/abstract/document/9142349/). *IEEE Transactions on Antennas and Propagation* 69, no. 1 (2020): 302-316. **Jun Wei Wu**, Zheng Xing Wang, Lei Zhang, Qiang Cheng, Shuo Liu, Shuang Zhang, Ji Ming Song, and Tie Jun Cui. 
 
 15. [Broadband and ultrathin Huygens metasurface with high transmittance](https://iopscience.iop.org/article/10.1088/1361-6463/aba460/meta). *Journal of Physics D: Applied Physics* 53, no. 45 (2020): 455102. Wang, Zheng Xing, **Jun Wei Wu**, Xiang Wan, Liang Wei Wu, Qiang Xiao, Qiang Cheng, and Tie Jun Cui. 
  
-16. [Minimal rational interpolation and its application in fast broadband simulation](https://ieeexplore.ieee.org/abstract/document/8928585/). *IEEE Access* 7 (2019): 177813-177826. **Wu, Jun Wei**, and Tie Jun Cui. 
+16. [Minimal rational interpolation and its application in fast broadband simulation](https://ieeexplore.ieee.org/abstract/document/8928585/). *IEEE Access* 7 (2019): 177813-177826. **Jun Wei Wu**, and Tie Jun Cui. 
 
-17. [Synthesis algorithm for near-field power pattern control and its experimental verification via metasurfaces](https://ieeexplore.ieee.org/abstract/document/8542678/). *IEEE Transactions on Antennas and Propagation* 67, no. 2 (2018): 1073-1083. **Wu, Jun Wei**, Rui Yuan Wu, Xi Chao Bo, Lei Bao, Xiao Jian Fu, and Tie Jun Cui. 
+17. [Synthesis algorithm for near-field power pattern control and its experimental verification via metasurfaces](https://ieeexplore.ieee.org/abstract/document/8542678/). *IEEE Transactions on Antennas and Propagation* 67, no. 2 (2018): 1073-1083. **Jun Wei Wu**, Rui Yuan Wu, Xi Chao Bo, Lei Bao, Xiao Jian Fu, and Tie Jun Cui. 
 
 18. [Large-scale characteristic mode analysis with fast multipole algorithms](https://ieeexplore.ieee.org/abstract/document/7399686/). *IEEE transactions on antennas and propagation* 64, no. 7 (2016): 2608-2616. Dai, Qi I., **Junwei Wu**, Hui Gan, Qin S. Liu, Weng Cho Chew, and E. I. Wei. 
  
-19. [Fast solution of low‐frequency complex problems over a frequency band using enhanced A‐EFIE and FMM](https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.28528). *Microwave and Optical Technology Letters* 56, no. 9 (2014): 2153-2158. **Wu, Jun Wei**, Zhi Guo Qian, José E. Schutt‐Ainé, and Weng Cho Chew. 
+19. [Fast solution of low‐frequency complex problems over a frequency band using enhanced A‐EFIE and FMM](https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.28528). *Microwave and Optical Technology Letters* 56, no. 9 (2014): 2153-2158. **Jun Wei Wu**, Zhi Guo Qian, José E. Schutt‐Ainé, and Weng Cho Chew. 
 
 20. [基于简化实频方法的宽带天线阻抗匹配网络设计](http://www.cjors.cn/article/id/1370)*电波科学学报*，2011,26 (2): 382-387. 武军伟，龚子平，万显荣，柯亨玉.
 
