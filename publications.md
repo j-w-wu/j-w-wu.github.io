@@ -15,6 +15,8 @@ Last Update: 8th Dec. 2023&nbsp;
 
 ### Part of Journal Papers
 
+1. [High-precision Direction Finding Based on Time Modulation Array with Single Radio Frequency Channel and Composite Baselines](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT231137). *Journal of Electronics & Information Technology* (2024). LIN Yulong, WANG Wuji, **WU Junwei**, CHENG Qiang. [基于复合基线时间调制阵列的单通道高精度测向系统](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT231137) *电子与信息学报* (2024). 林昱龙, 王无忌, **武军伟**, 程强.
+
 2. [Realizing Complex Beams via Amplitude-Phase Digital Coding Metasurface and Semidefinite Relaxation Optimization](https://www.fitee.zjujournals.com/en/article/doi/10.1631/FITEE.2300146/). *Frontiers of Information Technology & Electronic Engineering* (2023). **Jun Wei Wu**, Qiong Hua, Han Qing Yang, Zheng Xing Wang, Qiang Cheng, and Tie Jun Cui.
 
 1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
