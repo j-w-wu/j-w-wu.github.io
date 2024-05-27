@@ -17,7 +17,7 @@ Last Update: 27th May 2024&nbsp;
 
 ### Part of Journal Papers
 
-1. [A Hybrid Architecture for Programmable Meta-System Using a Few Active Elements] (https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400062). *Laser & Photonics Reviews* (2024). Zheng Xing Wang, **Jun Wei Wu**, Han Qing Yang, Qun Yan Zhou, Si Ran Wang, Hui Xu, Li Jie Wu, Yinghui Quan, Qiang Cheng, and Tie Jun Cui.
+1. [A Hybrid Architecture for Programmable Meta-System Using a Few Active Elements](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400062). *Laser & Photonics Reviews* (2024). Zheng Xing Wang, **Jun Wei Wu**, Han Qing Yang, Qun Yan Zhou, Si Ran Wang, Hui Xu, Li Jie Wu, Yinghui Quan, Qiang Cheng, and Tie Jun Cui.
 
 1. [Programmable Wave-Based Meta-Computer](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202404457). *Advanced Functional Materials* (2024). Han Qing Yang, **Jun Wei Wu**, Jun Yang, Li Jie Wu, Qiang Cheng, and Tie Jun Cui.
 
