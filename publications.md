@@ -5,15 +5,21 @@ title: Publications
 ---
 <style>body {text-align: justify}</style>
 
-Last Update: 8th Dec. 2023&nbsp;
+Last Update: 27th May 2024&nbsp;
 
 ### Upcoming publications
 
-
 1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
+2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *Advanced Science*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
+
+3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). **Nature Communications**, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
 ### Part of Journal Papers
+
+1. [A Hybrid Architecture for Programmable Meta-System Using a Few Active Elements] (https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400062). *Laser & Photonics Reviews* (2024). Zheng Xing Wang, **Jun Wei Wu**, Han Qing Yang, Qun Yan Zhou, Si Ran Wang, Hui Xu, Li Jie Wu, Yinghui Quan, Qiang Cheng, and Tie Jun Cui.
+
+1. [Programmable Wave-Based Meta-Computer](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202404457). *Advanced Functional Materials* (2024). Han Qing Yang, **Jun Wei Wu**, Jun Yang, Li Jie Wu, Qiang Cheng, and Tie Jun Cui.
 
 1. [High-precision Direction Finding Based on Time Modulation Array with Single Radio Frequency Channel and Composite Baselines](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT231137). *Journal of Electronics & Information Technology* (2024). LIN Yulong, WANG Wuji, **WU Junwei**, CHENG Qiang. [基于复合基线时间调制阵列的单通道高精度测向系统](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT231137) *电子与信息学报* (2024). 林昱龙, 王无忌, **武军伟**, 程强.
 
@@ -22,7 +28,7 @@ Last Update: 8th Dec. 2023&nbsp;
 1. [Macroscopic Model and Statistical Model to Characterize Electromagnetic Information of Digital Coding Metasurface](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad299/7455909?utm_source=authortollfreelink&utm_campaign=nsr&utm_medium=email&guestAccessKey=6e90aeb9-ef2a-4ea7-af57-0872d28312a8). **National Science Review** (2023). Rui Wen Shao, **Jun Wei Wu**, Zheng Xing Wang, Hui Xu, Han Qing Yang, Qiang Cheng, and Tie Jun Cui.
 Qiang Cheng, and Tie Jun Cui
 
-2. [Complex matrix equation solver based on computational metasurface](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202310234). **Advanced Functional Materials** (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
+2. [Complex matrix equation solver based on computational metasurface](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202310234). *Advanced Functional Materials* (2023). Han Qing Yang, **Jun Wei Wu**, Rui Wen Shao, Zheng Xing Wang, Hui Xu, Yuan Gao, Qiang Cheng, and Tie Jun Cui.
 
 3. [Simple and Comprehensive Strategy to Synthesize Huygens Metasurface Antenna and Verification](https://ieeexplore.ieee.org/abstract/document/10147911/). *IEEE Transactions on Antennas and Propagation* (2023). **Jun Wei Wu**, Zheng Xing Wang, Rui Yuan Wu, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
