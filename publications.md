@@ -17,7 +17,7 @@ Last Update: 27th May 2024&nbsp;
 
 4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). **IEEE Transactions on Antennas and Propagation**, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
 
-5. [Exploring RFID Technology for Wireless Control of Smart Antennas](). * IEEE Internet of Things Journal*, accepted. Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
+5. [Exploring RFID Technology for Wireless Control of Smart Antennas](). *IEEE Internet of Things Journal*, accepted. Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
 
 ### Part of Journal Papers
 
