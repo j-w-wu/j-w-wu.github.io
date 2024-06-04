@@ -22,7 +22,7 @@ Last Update: 27th May 2024&nbsp;
 
 ### Upcoming publications
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). <red>**Nature Communications**</red>, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **<red>Nature Communications</red>**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *Advanced Science*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
