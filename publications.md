@@ -3,13 +3,26 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-<style>body {text-align: justify}</style>
+<style>
+body {text-align: justify}
+blue {
+  color: lightblue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
 
 Last Update: 27th May 2024&nbsp;
 
 ### Upcoming publications
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **Nature Communications**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). <red>**Nature Communications**</red>, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *Advanced Science*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
@@ -17,9 +30,9 @@ Last Update: 27th May 2024&nbsp;
 
 4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). **IEEE Transactions on Antennas and Propagation**, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
 
-5. [Exploring RFID Technology for Wireless Control of Smart Antennas](). *IEEE Internet of Things Journal*, accepted. Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
-
 ### Part of Journal Papers
+
+5. [Exploring RFID Technology for Wireless Control of Smart Antennas](https://ieeexplore.ieee.org/document/10542330). *IEEE Internet of Things Journal*, Eearly Access. Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
 
 1. [A Hybrid Architecture for Programmable Meta-System Using a Few Active Elements](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400062). *Laser & Photonics Reviews* (2024). Zheng Xing Wang, **Jun Wei Wu**, Han Qing Yang, Qun Yan Zhou, Si Ran Wang, Hui Xu, Li Jie Wu, Yinghui Quan, Qiang Cheng, and Tie Jun Cui.
 
