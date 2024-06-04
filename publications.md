@@ -6,7 +6,7 @@ title: Publications
 <style>
 body {text-align: justify}
 blue {
-  color: lightblue;
+  color: blue;
 }
 
 red {
@@ -14,7 +14,7 @@ red {
 }
 
 green {
-  color: lightgreen;
+  color: green;
 }
 </style>
 
