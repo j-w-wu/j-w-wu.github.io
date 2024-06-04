@@ -22,13 +22,13 @@ Last Update: 27th May 2024&nbsp;
 
 ### Upcoming publications
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **<green>Nature Communications</green>**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). **<blue>Nature Communications</blue>**, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
-2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *Advanced Science*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
+2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *<blue>Advanced Science</blue>*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
-3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). **Nature Communications**, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
+3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). **<blue>Nature Communications</blue>**, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
-4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). **IEEE Transactions on Antennas and Propagation**, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
+4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). **<blue>IEEE Transactions on Antennas and Propagation</blue>**, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
 
 ### Part of Journal Papers
 
