@@ -8,11 +8,9 @@ body {text-align: justify}
 blue {
   color: blue;
 }
-
 red {
   color: red;
-}
-
+}d
 green {
   color: green;
 }

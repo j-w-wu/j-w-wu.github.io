@@ -1,7 +1,18 @@
 ---
 layout: page
 ---
-<style>body {text-align: justify}</style>
+<style>
+body {text-align: justify}
+blue {
+  color: blue;
+}
+red {
+  color: red;
+}d
+green {
+  color: green;
+}
+</style>
 
 ### About Me
 
@@ -13,7 +24,7 @@ where he is also with the state key laboratory of millimeter waves. He is a memb
 
 ### Research Interests
 
-His research interests include numerical methods in electromagnetics, antennas and metamaterials, and the electromagnetic information theory.
+He researches **<red>Science Based Engineering</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
 
 ### News and Updates
 
