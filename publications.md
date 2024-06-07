@@ -16,13 +16,13 @@ green {
 }
 </style>
 
-Last Update: 27th May 2024&nbsp;
+Last Update: 7th June 2024&nbsp;
 
 ### Upcoming publications
 
 1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). *<blue>Nature Communications</blue>*, under revision. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
-2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *<blue>Advanced Science</blue>*, under revision. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
+2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](). *<blue>Advanced Science</blue>*, accepted. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). *<blue>Nature Communications</blue>*, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
@@ -75,7 +75,7 @@ Qiang Cheng, and Tie Jun Cui
 
 17. [Synthesis algorithm for near-field power pattern control and its experimental verification via metasurfaces](https://ieeexplore.ieee.org/abstract/document/8542678/). *<blue>IEEE Transactions on Antennas and Propagation</blue>* 67, no. 2 (2018): 1073-1083. **Jun Wei Wu**, Rui Yuan Wu, Xi Chao Bo, Lei Bao, Xiao Jian Fu, and Tie Jun Cui. 
 
-18. [Large-scale characteristic mode analysis with fast multipole algorithms](https://ieeexplore.ieee.org/abstract/document/7399686/). *<blue>IEEE transactions on antennas and propagation</blue>* 64, no. 7 (2016): 2608-2616. Dai, Qi I., **Junwei Wu**, Hui Gan, Qin S. Liu, **<blue>Weng Cho Chew</blue>**, and E. I. Wei. 
+18. [Large-scale characteristic mode analysis with fast multipole algorithms](https://ieeexplore.ieee.org/abstract/document/7399686/). *<blue>IEEE transactions on antennas and propagation</blue>* 64, no. 7 (2016): 2608-2616. Dai, Qi I., **Junwei Wu**, Hui Gan, Qin S. Liu, **<blue>Weng Cho Chew</blue>**, and Wei E. I. Sha. 
  
 19. [Fast solution of low‐frequency complex problems over a frequency band using enhanced A‐EFIE and FMM](https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.28528). *<blue>Microwave and Optical Technology Letters</blue>* 56, no. 9 (2014): 2153-2158. **Jun Wei Wu**, Zhi Guo Qian, José E. Schutt‐Ainé, and **<blue>Weng Cho Chew</blue>**. 
 

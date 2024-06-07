@@ -24,7 +24,7 @@ where he is also with the state key laboratory of millimeter waves. He is a memb
 
 ### Research Interests
 
-He researches **<red>Science Based Engineering</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
+He researches **<red>science based electromagnetic engineering (SBEME)</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
 
 ### News and Updates
 
