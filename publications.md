@@ -20,13 +20,13 @@ Last Update: 7th June 2024&nbsp;
 
 ### Upcoming publications
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](). *<blue>Nature Communications</blue>*, accepted. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
-
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). *<blue>Nature Communications</blue>*, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
-4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
+4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](accepted). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
 
 ### Part of Journal Papers
+
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](https://www.nature.com/articles/s41467-024-50482-y). *<blue>Nature Communications</blue>*. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403624). *<blue>Advanced Science</blue>*, (2024). Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
