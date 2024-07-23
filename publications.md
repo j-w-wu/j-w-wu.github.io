@@ -22,7 +22,7 @@ Last Update: 7th June 2024&nbsp;
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic information theory](). *<blue>Nature Communications</blue>*, under revision. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
-4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](accepted). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under revision. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
+4. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, accepted. Ming Jiang, Weijian Ran, **Junwei Wu**, Xiong Yang, Yin Li, Ruiyuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui
 
 ### Part of Journal Papers
 
