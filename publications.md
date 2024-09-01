@@ -31,7 +31,7 @@ Last Update: 11th Aug. 2024&nbsp;
 
 2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403624). *<blue>Advanced Science</blue>*, (2024). Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
-5. [Exploring RFID Technology for Wireless Control of Smart Antennas](https://ieeexplore.ieee.org/document/10542330). *<blue>IEEE Internet of Things Journal</blue>*, Eearly Access. Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
+5. [Exploring RFID Technology for Wireless Control of Smart Antennas](https://ieeexplore.ieee.org/document/10542330). *<blue>IEEE Internet of Things Journal</blue>*, (2024). Chuankui Shen, Zhengxing Wang, **Junwei Wu**, Qiang Cheng, and Tao Ye
 
 1. [A Hybrid Architecture for Programmable Meta-System Using a Few Active Elements](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202400062). *<blue>Laser & Photonics Reviews</blue>* (2024). Zheng Xing Wang, **Jun Wei Wu**, Han Qing Yang, Qun Yan Zhou, Si Ran Wang, Hui Xu, Li Jie Wu, Yinghui Quan, Qiang Cheng, and Tie Jun Cui.
 
