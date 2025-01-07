@@ -21,11 +21,10 @@ Last Update: 9th Dec. 2024&nbsp;
 ### Upcoming publications
 1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>IEEE Wireless Communications Magzine</blue>*, under review. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 1. [A Physical-Based Perspective for Understanding and Utilizing Spatial Resources of Wireless Channels](https://arxiv.org/abs/2410.06115).  *<blue>IEEE Transactions on Information Theory</blue>*, under review. Hui Xu, **Jun Wei Wu**, Zhen Jie Qi, Hao Tian Wu, Rui Wen Shao, Jieao Zhu, Qiang Cheng, Linglong Dai, and Tie Jun Cui.
-2. [Transmission-Reflection-Integrated Coding Metasurface for Simultaneous and Independent Control of Bidirectional Incident Waves]().  *<blue>Advanced Functional Materials</blue>*, under revision. Jun Yang, Yin Li, **Jun Wei Wu**, Jun Yan Dai, Hui Dong Li, Youjia Chen, Qiang Cheng.
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic theory](). *<blue>Nature Communications</blue>*, accepted. Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
-
 ### Part of Journal Papers
+2. [Transmission-Reflection-Integrated Coding Metasurface for Simultaneous and Independent Control of Bidirectional Incident Waves](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202419681).  *<blue>Advanced Functional Materials</blue>*, early view. Jun Yang, Yin Li, **Jun Wei Wu**, Jun Yan Dai, Hui Dong Li, Youjia Chen, Qiang Cheng.
 
 1. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](https://ieeexplore.ieee.org/document/10630590). *<blue>IEEE Transactions on Antennas and Propagation</blue>*. Ming Jiang, Wei Jian Ran, **Jun Wei Wu**, Xiong Yang, Yin Li, Rui Yuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui.
 
