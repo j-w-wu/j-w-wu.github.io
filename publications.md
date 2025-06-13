@@ -25,7 +25,7 @@ Last Update: 14th May. 2025&nbsp;
 
 ### Part of Journal Papers
 
-1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and DuaChannel 16QAM Secure communication] (https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202503273). *<blue>Advanced Functional Materials</blue>*, (2025, 2503273). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
+1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and DuaChannel 16QAM Secure communication](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202503273). *<blue>Advanced Functional Materials</blue>*, (2025, 2503273). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic theory](https://doi.org/10.1038/s41467-025-56209-x). *<blue>Nature Communications</blue>*, (2025). Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
