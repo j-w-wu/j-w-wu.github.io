@@ -19,11 +19,13 @@ green {
 Last Update: 14th May. 2025&nbsp;
 
 ### Upcoming publications
-1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and DuaChannel 16QAM Secure communication] (). *<blue>Advanced Functional Materials</blue>*, (2025, vol *, *). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
+
 1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>IEEE Wireless Communications Magzine</blue>*, under review. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 1. [A Physical-Based Perspective for Understanding and Utilizing Spatial Resources of Wireless Channels](https://arxiv.org/abs/2410.06115).  *<blue>IEEE Transactions on Information Theory</blue>*, under review. Hui Xu, **Jun Wei Wu**, Zhen Jie Qi, Hao Tian Wu, Rui Wen Shao, Jieao Zhu, Qiang Cheng, Linglong Dai, and Tie Jun Cui.
 
 ### Part of Journal Papers
+
+1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and DuaChannel 16QAM Secure communication] (https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202503273). *<blue>Advanced Functional Materials</blue>*, (2025, 2503273). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic theory](https://doi.org/10.1038/s41467-025-56209-x). *<blue>Nature Communications</blue>*, (2025). Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
