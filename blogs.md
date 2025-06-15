@@ -21,3 +21,13 @@ title: Blogs
 <div class="one-second">
 <img src="/images/2024Grad.jpg">
 </div>
+
+---------------------------------------------------------------------------
+
+### 2025
+
+- 2025届优秀硕士毕业生(distinguished master graduates in 2025)：孙新羽，方渐宇.
+
+<div class="one-second">
+<img src="/images/2025Grad.jpg">
+</div>
