@@ -5,7 +5,7 @@ title: Projects
 ---
 <style>body {text-align: justify}</style>
 
-Last Update: 10th Dec. 2025&nbsp;
+Last Update: 11th Dec. 2025&nbsp;
 
 - 国家自然科学基金委青年基金B类项目[原优秀青年基金]，电磁学中的数值方法，2026/01-2028/12，主持
 
