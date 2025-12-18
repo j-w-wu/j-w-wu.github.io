@@ -22,10 +22,11 @@ Last Update: 10th Dec. 2025&nbsp;
 
 1. [A Global and Efficient Encoding Strategy for Beamforming Based on Branch and Bound Algorithm]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Tian Xie, Yu Long Lin, Ang Li, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Jun Wei Zhang, Rui Wen Shao, Zhang Jie Luo, Jun Yan Dai, You Jia Chen,  **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
 1. [A Random Phase Approximation Method for the Generation of Complex Beams and Its Verification via Phase-Only Digital Metasurfaces]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Cai Yu Qian, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Xuan Jing Li, Rui Wen Shao, Jun Wei Zhang, Lin Gang Fan, You Jia Chen, Zhang Jie Luo, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
-1. [Ultralow-Power-Consumption Reconfigurable Reflectarray Antenna for Beam Scanning and Phase, Amplitude, and Polarization Control]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Zheng Xing Wang, Bing Jie Xiang, Jun Wei Zhang, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui, and Kwai-Man Luk.
 1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>Laser & Photonics Reviews</blue>*, under review. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 
 ### Part of Journal Papers
+
+1. [Ultralow-Power-Consumption Reconfigurable Reflectarray Antenna for Beam Scanning and Phase, Amplitude, and Polarization Control](https://ieeexplore.ieee.org/document/11299462).  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2025). Zheng Xing Wang, Bing Jie Xiang, Jun Wei Zhang, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui, and Kwai-Man Luk.
 
 1. [A Physics-Based Perspective for Understanding and Utilizing Spatial Resources in Line-of-Sight Holographic Communications](https://ieeexplore.ieee.org/document/11270004).  *<blue>IEEE Transactions on Wireless Communications</blue>*, (2025). Hui Xu, **Jun Wei Wu**, Zhen Jie Qi, Hao Tian Wu, Rui Wen Shao, Jieao Zhu, Qiang Cheng, Linglong Dai, and Tie Jun Cui.
 
