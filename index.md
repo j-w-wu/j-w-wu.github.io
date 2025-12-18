@@ -16,15 +16,15 @@ green {
 
 ### About Me
 
-**Jun Wei Wu (武军伟)** received the B.S. degree in electrical engineering from shandong university, Jinan, China, in 2008, and the Ph.D. degree in radio physics from wuhan university,
-Wuhan, China, in 2015. From 2012 to 2014, he worked as a visiting scholar at the center for computational electromagnetics,
-university of illinois at urbana–champaign (UIUC), USA. He is currently an associate professor with southeast university, Nanjing, China,
-where he is also with the state key laboratory of millimeter waves. He is a member of IEEE and also the IEEE AP-S COPE committee. 
+I received the B.S. degree in electrical engineering from shandong university, Jinan, China, in 2008, and the Ph.D. degree in radio physics from wuhan university,
+Wuhan, China, in 2015. From 2012 to 2014, I worked as a visiting scholar at the center for computational electromagnetics,
+university of illinois at urbana–champaign (UIUC), USA. I am currently an associate professor with southeast university, Nanjing, China,
+where I am also with the state key laboratory of millimeter waves. I am a member of IEEE and also the IEEE AP-S COPE committee. 
 
 
 ### Research Interests
 
-He researches **<red>science based electromagnetic engineering (SBEME)</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
+I study **<red>science based electromagnetic engineering (SBEME)</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
 
 ### Selected Publications
 1. [A Physics-Based Perspective for Understanding and Utilizing Spatial Resources in Line-of-Sight Holographic Communications](https://ieeexplore.ieee.org/document/11270004).  *<blue>IEEE Transactions on Wireless Communications</blue>*, (2025). Hui Xu, **Jun Wei Wu**, Zhen Jie Qi, Hao Tian Wu, Rui Wen Shao, Jieao Zhu, Qiang Cheng, Linglong Dai, and Tie Jun Cui.
