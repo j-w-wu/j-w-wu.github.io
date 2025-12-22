@@ -21,10 +21,12 @@ Last Update: 10th Dec. 2025&nbsp;
 ### Upcoming publications
 
 1. [A Global and Efficient Encoding Strategy for Beamforming Based on Branch and Bound Algorithm]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Tian Xie, Yu Long Lin, Ang Li, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Jun Wei Zhang, Rui Wen Shao, Zhang Jie Luo, Jun Yan Dai, You Jia Chen,  **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
-1. [A Random Phase Approximation Method for the Generation of Complex Beams and Its Verification via Phase-Only Digital Metasurfaces]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Cai Yu Qian, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Xuan Jing Li, Rui Wen Shao, Jun Wei Zhang, Lin Gang Fan, You Jia Chen, Zhang Jie Luo, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
+
 1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>Laser & Photonics Reviews</blue>*, under review. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 
 ### Part of Journal Papers
+
+1. [A Random Phase Approximation Method for the Generation of Complex Beams and Its Verification via Phase-Only Digital Metasurfaces](https://www.jpier.org/PIER/pier.php?paper=25102203).  *<blue>Progress In Electromagnetics Research</blue>*, (Vol. 184, 64-78, 2025). Cai Yu Qian, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Xuan Jing Li, Rui Wen Shao, Jun Wei Zhang, Lin Gang Fan, You Jia Chen, Zhang Jie Luo, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
 
 1. [Ultralow-Power-Consumption Reconfigurable Reflectarray Antenna for Beam Scanning and Phase, Amplitude, and Polarization Control](https://ieeexplore.ieee.org/document/11299462).  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2025). Zheng Xing Wang, Bing Jie Xiang, Jun Wei Zhang, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui, and Kwai-Man Luk.
 
@@ -36,9 +38,9 @@ Last Update: 10th Dec. 2025&nbsp;
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic theory](https://doi.org/10.1038/s41467-025-56209-x). *<blue>Nature Communications</blue>*, (2025). Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
-2. [Transmission-Reflection-Integrated Coding Metasurface for Simultaneous and Independent Control of Bidirectional Incident Waves](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202419681).  *<blue>Advanced Functional Materials</blue>*, (2025, vol *, 2419681). Jun Yang, Yin Li, **Jun Wei Wu**, Jun Yan Dai, Si Ran Wang, Hui Dong Li, Youjia Chen, Qiang Cheng.
+2. [Transmission-Reflection-Integrated Coding Metasurface for Simultaneous and Independent Control of Bidirectional Incident Waves](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202419681).  *<blue>Advanced Functional Materials</blue>*, (2025, 2419681). Jun Yang, Yin Li, **Jun Wei Wu**, Jun Yan Dai, Si Ran Wang, Hui Dong Li, Youjia Chen, Qiang Cheng.
 
-1. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](https://ieeexplore.ieee.org/document/10630590). *<blue>IEEE Transactions on Antennas and Propagation</blue>*. Ming Jiang, Wei Jian Ran, **Jun Wei Wu**, Xiong Yang, Yin Li, Rui Yuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui.
+1. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](https://ieeexplore.ieee.org/document/10630590). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2024) Ming Jiang, Wei Jian Ran, **Jun Wei Wu**, Xiong Yang, Yin Li, Rui Yuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui.
 
 1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](https://www.nature.com/articles/s41467-024-50482-y). *<blue>Nature Communications</blue>*. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
