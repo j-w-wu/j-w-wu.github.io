@@ -24,7 +24,7 @@ where I am also with the state key laboratory of millimeter waves. I am a member
 
 ### Research Interests
 
-I study **<red>science based electromagnetic engineering (SBEME)</red>**, and the specific interests include numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
+I study **<red>science based electromagnetic engineering (SBEME)</red>**, and the specific interests include array signal processing, numerical methods in electromagnetics, antennas and metamaterials, and also the theory and technology related to electromagnetic information. 
 
 ### Selected Publications
 1. [A Physics-Based Perspective for Understanding and Utilizing Spatial Resources in Line-of-Sight Holographic Communications](https://ieeexplore.ieee.org/document/11270004).  *<blue>IEEE Transactions on Wireless Communications</blue>*, (2025). Hui Xu, **Jun Wei Wu**, Zhen Jie Qi, Hao Tian Wu, Rui Wen Shao, Jieao Zhu, Qiang Cheng, Linglong Dai, and Tie Jun Cui.
