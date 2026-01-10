@@ -6,28 +6,19 @@ title: Blogs
 
 ### 2023
 
-- 2023届优秀硕士毕业生(distinguished master graduates in 2023)：华琼，李姿婵，张筱琪，王无忌，王展宏.
-
-<div class="one-second">
-<img src="/images/2023Grad3.jpg">
-</div>
+- 优秀硕士毕业生(distinguished master graduates)：华琼，李姿婵，张筱琪，王无忌，王展宏.
 
 ---------------------------------------------------------------------------
 
 ### 2024
 
-- 2024届优秀硕士毕业生(distinguished master graduates in 2024)：吕杰明，黄业成.
-
-<div class="one-second">
-<img src="/images/2024Grad.jpg">
-</div>
+- 优秀博士毕业生(distinguished ph.d graduates)：汪正兴.
+- 优秀硕士毕业生(distinguished master graduates)：吕杰明，黄业成.
 
 ---------------------------------------------------------------------------
 
 ### 2025
 
-- 2025届优秀硕士毕业生(distinguished master graduates in 2025)：孙新羽，方渐宇.
+- 优秀博士毕业生(distinguished ph.d graduates)：邵睿文.
+- 优秀硕士毕业生(distinguished master graduates)：孙新羽，方渐宇.
 
-<div class="one-second">
-<img src="/images/2025Grad.jpg">
-</div>
