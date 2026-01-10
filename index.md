@@ -39,16 +39,22 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
 
 ### Some Figures of My Work
 
-
+Phased array antenna
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center">
-    <img src="/images/array1.jpg" alt="图片1描述" style="max-width: 45%;">
-    <p style="font-size: 0.9em;">Phased array antenna</p>
+    <img src="/images/array1.jpg" alt="frontside" style="max-width: 45%;">
+    <p style="font-size: 0.9em;">frontside</p>
   </div>
   <div style="text-align: center">
-    <img src="/images/demultiplex1.png" alt="图片2描述" style="max-width: 45%;">
-    <p style="font-size: 0.9em;">图片2说明</p>
+    <img src="/images/array2.jpg" alt="Phased array antenna, backside" style="max-width: 45%;">
+    <p style="font-size: 0.9em;">backside</p>
   </div>
 </div>
 
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center">
+    <img src="/images/array3.png" alt="scanned beam" style="max-width: 90%;">
+    <p style="font-size: 0.9em;">scanned beam</p>
+  </div>
+</div>
 
