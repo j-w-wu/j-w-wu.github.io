@@ -34,7 +34,7 @@ Last Update: 10th Dec. 2025&nbsp;
 
 1. [A Novel 2-bit Reconfigurable Folded Transmitarray Antenna with Low Profile and High Aperture Efficienc](https://ieeexplore.ieee.org/document/11184463).  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2025). Jun Yang, Chen Yang Meng, Yin Li, **Jun Wei Wu**, Hui Dong Li, Si Ran Wang, Jun Yan Dai, and Qiang Cheng.
 
-1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and DuaChannel 16QAM Secure communication](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202503273). *<blue>Advanced Functional Materials</blue>*, (2025, 2503273). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
+1. [High-Resolution Phase-Magnitude-Decoupled information Metasurface for Complex Beamforming and Dual Channel 16QAM Secure communication](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202503273). *<blue>Advanced Functional Materials</blue>*, (2025, 2503273). Zheng Xing Wang, Hui Xu, Jie Ming Lv, Shuo Liu, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, Tie Jun Cui.
 
 3. [Dual-channel holographic MIMO communications based on programmable digital coding metasurface and electromagnetic theory](https://doi.org/10.1038/s41467-025-56209-x). *<blue>Nature Communications</blue>*, (2025). Rui Wen Shao, **Jun Wei Wu**, Jia Chen Li, Sheng Guo Meng, Yi Fan Xu, Zheng Xing Wang, Wan Kai Tang, Qiang Cheng, Shi Jin, and Tie Jun Cui.
 
@@ -69,6 +69,8 @@ Last Update: 10th Dec. 2025&nbsp;
 6. [Design of a 2-Bit Reconfigurable UWB Planar Antenna Array for Beam Scanning Application](https://ieeexplore.ieee.org/abstract/document/10008041/). *<blue>IEEE Open Journal of Antennas and Propagation</blue>* (2023). Fang, Zuqi, Hanqing Yang, Yuan Gao, Feng Zhai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui. 
 
 7. [A Long‐Range and Nearly Passive RFID‐Controlled Information Metasurface](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202203114). *<blue>Advanced Optical Materials</blue>* (2023): 2203114. Wang, Zheng Xing, Chuan Kui Shen, **Jun Wei Wu**, Hui Xu, Qiang Cheng, Terry Tao Ye, and Tie Jun Cui. 
+
+7. [A Low-Cost and Low-Profile Electronically Programmable Bit Array Antenna for Two-Dimensional Wide-Angle Beam Steering](https://ieeexplore.ieee.org/document/9954412). *<blue>IEEE Transactions on Antennas and Propagation</blue>* 71, no. 1 (2023): 342-352. Zheng Xing Wang, Han Qing Yang, Feng Zhai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
 
 8. [Low Cost and High Performance 5-Bit Programmable Phased Array Antenna at Ku-Band](https://www.jpier.org/PIER/pier.php?paper=22052806). *<blue>Progress In Electromagnetics Research</blue>* 175 (2022): 29-43. Li Xin, Yang Han Qing, Shao Rui Wen, Zhai Feng, Liu Guo Biao, Liu Zheng et al.
 

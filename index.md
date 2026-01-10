@@ -37,5 +37,18 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
 8. [Low Cost and High Performance 5-Bit Programmable Phased Array Antenna at Ku-Band](https://www.jpier.org/PIER/pier.php?paper=22052806). *<blue>Progress In Electromagnetics Research</blue>* 175 (2022): 29-43. Li Xin, Yang Han Qing, Shao Rui Wen, Zhai Feng, Liu Guo Biao, Liu Zheng et al.
 13. [Full‐State synthesis of electromagnetic fields using high efficiency phase‐only metasurfaces](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202004144). *<blue>Advanced Functional Materials</blue>* 30, no. 39 (2020): 2004144. **Jun Wei Wu**, Zheng Xing Wang, Zu Qi Fang, Jing Cheng Liang, Xiaojian Fu, Jun Feng Liu, Hao Tian Wu et al. 
 
+### Some Figures of My Work
+
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center">
+    <img src="/images/array1.jpg" alt="图片1描述" style="max-width: 45%;">
+    <p style="font-size: 0.9em;">Phased array antenna</p>
+  </div>
+  <div style="text-align: center">
+    <img src="/images/demultiplex1.png" alt="图片2描述" style="max-width: 45%;">
+    <p style="font-size: 0.9em;">图片2说明</p>
+  </div>
+</div>
 
 
