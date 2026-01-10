@@ -39,7 +39,7 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
 
 ### Some Figures of My Work
 
-1. Phased array antenna based on digital metasurface
+1. [Phased array antenna based on digital metasurface]
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center">
@@ -47,7 +47,7 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
     <p style="font-size: 0.9em;">frontside</p>
   </div>
   <div style="text-align: center">
-    <img src="/images/array2.jpg" alt="Phased array antenna, backside" style="max-width: 45%;">
+    <img src="/images/array22.jpg" alt="backside" style="max-width: 45%;">
     <p style="font-size: 0.9em;">backside</p>
   </div>
 </div>
@@ -59,7 +59,7 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
   </div>
 </div>
 
-2. Frequency demultiplexer based on topological optimization 
+2. [Frequency demultiplexer based on topological optimization] 
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center">
