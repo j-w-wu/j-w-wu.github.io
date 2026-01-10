@@ -43,11 +43,11 @@ I study **<red>science based electromagnetic engineering (SBEME)</red>**, and th
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center">
-    <img src="/images/array1.jpg" alt="frontside" style="max-width: 45%;">
+    <img src="/images/array1.jpg" alt="frontside" style="max-width: 50%;">
     <p style="font-size: 0.9em;">frontside</p>
   </div>
   <div style="text-align: center">
-    <img src="/images/array22.jpg" alt="backside" style="max-width: 45%;">
+    <img src="/images/array22.jpg" alt="backside" style="max-width: 50%;">
     <p style="font-size: 0.9em;">backside</p>
   </div>
 </div>
