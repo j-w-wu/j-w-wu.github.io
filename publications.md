@@ -20,11 +20,13 @@ Last Update: 10th Dec. 2025&nbsp;
 
 ### Upcoming publications
 
-1. [A Global and Efficient Encoding Strategy for Beamforming Based on Branch and Bound Algorithm]().  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, under review. Tian Xie, Yu Long Lin, Ang Li, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Jun Wei Zhang, Rui Wen Shao, Zhang Jie Luo, Jun Yan Dai, You Jia Chen,  **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
 
-1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>Laser & Photonics Reviews</blue>*, under review. Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 
 ### Part of Journal Papers
+
+1. [A Global and Efficient Encoding Strategy for Beamforming Based on Branch and Bound Algorithm](https://ieeexplore.ieee.org/document/11346881).  *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (DOI: 10.1109/TAP.2025.3650642). Tian Xie, Yu Long Lin, Ang Li, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Jun Wei Zhang, Rui Wen Shao, Zhang Jie Luo, Jun Yan Dai, You Jia Chen,  **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
+
+1. [Extremely Low-Power-Consumption Integrated Sensing and Communications Based on Tailless and RFID-Aided RIS System](). *<blue>Laser & Photonics Reviews</blue>*, (DOI:10.1002/lpor.202501074). Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Tian Xie, Zhen Jie Qi, Jun Yang, Rui Wen Shao, Si Ran Wang, Sen Zheng, You Jia Chen, Lie Kun Shen, Terry Tao Ye, Qiang Cheng, and Tie Jun Cui.
 
 1. [A Random Phase Approximation Method for the Generation of Complex Beams and Its Verification via Phase-Only Digital Metasurfaces](https://www.jpier.org/PIER/pier.php?paper=25102203).  *<blue>Progress In Electromagnetics Research</blue>*, (Vol. 184, 64-78, 2025). Cai Yu Qian, Zhen Jie Qi, Zheng Xing Wang, Hui Xu, Xuan Jing Li, Rui Wen Shao, Jun Wei Zhang, Lin Gang Fan, You Jia Chen, Zhang Jie Luo, Jun Yan Dai, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
 
