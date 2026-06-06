@@ -42,9 +42,9 @@ Last Update: 10th Dec. 2025&nbsp;
 
 2. [Transmission-Reflection-Integrated Coding Metasurface for Simultaneous and Independent Control of Bidirectional Incident Waves](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202419681).  *<blue>Advanced Functional Materials</blue>*, (2025, 2419681). Jun Yang, Yin Li, **Jun Wei Wu**, Jun Yan Dai, Si Ran Wang, Hui Dong Li, Youjia Chen, Qiang Cheng.
 
-1. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](https://ieeexplore.ieee.org/document/10630590). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2024) Ming Jiang, Wei Jian Ran, **Jun Wei Wu**, Xiong Yang, Yin Li, Rui Yuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui.
+1. [Efficient and Accurate Simulations of Metamaterials Based on Domain Decomposition and Unit Feature Database](https://ieeexplore.ieee.org/document/10630590). *<blue>IEEE Transactions on Antennas and Propagation</blue>*, (2024). Ming Jiang, Wei Jian Ran, **Jun Wei Wu**, Xiong Yang, Yin Li, Rui Yuan Wu, Qiang Cheng, Jun Hu, and Tiejun Cui.
 
-1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](https://www.nature.com/articles/s41467-024-50482-y). *<blue>Nature Communications</blue>*. Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
+1. [Two-dimensional and high-order directional information modulations for secure communications based on programmable metasurface](https://www.nature.com/articles/s41467-024-50482-y). *<blue>Nature Communications</blue>*, (2024). Hui Xu, **Jun Wei Wu**, Zheng Xing Wang, Rui Wen Shao, Han Qing Yang, and Tie Jun Cui.
 
 2. [A Dual-Polarization Programmable Metasurface for Green and Secure Wireless Communication](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403624). *<blue>Advanced Science</blue>*, (2024). Zheng Xing Wang, **Jun Wei Wu**, Hui Xu, Qiang Cheng, and Tie Jun Cui. 
 
