@@ -20,7 +20,11 @@ Last Update: 10th Dec. 2025&nbsp;
 
 ### Upcoming publications
 
+1. [Eigenmode-hopping secure wireless communications in complex environments via programmable metasurfaces and dual-side orthogonal projection](). *<blue>National Science Review</blue>*, (under review). Xuan Jing Li, Hui Xu, Jun Pu Shi, Zhang Jie Luo, Jun Yan Dai, Qiang Cheng, Lian Lin Li, **Jun Wei Wu1**, Yan Bing Li, and Tie Jun Cui.
 
+1. [A dual-programmable-metasurface transceiver architecture for OAM communications](). *<blue>Nature Electronics</blue>*, (under review). Zheng Xing Wang, Hui Xu, Zhen Jie Qi, Rui Wen Shao, **Jun Wei Wu**, Qiang Cheng, and Tie Jun Cui.
+
+1. [Distributed space-time-coding metasurfaces for positional information modulations](). *<blue>Advanced Materials</blue>*, (under review). Hui Xu, Zhen Jie Qi, Zheng Xing Wang, Qun Yan Zhou, Jun Pu Shi, Jia Chen Wang, Yan Shi, Yan Bing Li, Zhang Jie Luo, Qiang Cheng, Lian Lin Li, Tie Jun Cui1, **Jun Wei Wu**
 
 ### Part of Journal Papers
 
